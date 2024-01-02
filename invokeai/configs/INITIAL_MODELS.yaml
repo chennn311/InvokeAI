@@ -78,18 +78,6 @@ sd-1/controlnet/canny:
 sd-1/controlnet/inpaint:
    repo_id: lllyasviel/control_v11p_sd15_inpaint
    recommended: True
-sd-1/controlnet/mlsd:
-   repo_id: lllyasviel/control_v11p_sd15_mlsd
-   recommended: False
-sd-1/controlnet/depth:
-   repo_id: lllyasviel/control_v11f1p_sd15_depth
-   recommended: True
-sd-1/controlnet/normal_bae:
-   repo_id: lllyasviel/control_v11p_sd15_normalbae
-   recommended: False
-sd-1/controlnet/seg:
-   repo_id: lllyasviel/control_v11p_sd15_seg
-   recommended: False
 sd-1/controlnet/lineart:
    repo_id: lllyasviel/control_v11p_sd15_lineart
    recommended: True
@@ -99,6 +87,18 @@ sd-1/controlnet/lineart_anime:
 sd-1/controlnet/openpose:
    repo_id: lllyasviel/control_v11p_sd15_openpose
    recommended: True
+sd-1/controlnet/depth:
+   repo_id: lllyasviel/control_v11f1p_sd15_depth
+   recommended: True
+sd-1/controlnet/mlsd:
+   repo_id: lllyasviel/control_v11p_sd15_mlsd
+   recommended: False
+sd-1/controlnet/normal_bae:
+   repo_id: lllyasviel/control_v11p_sd15_normalbae
+   recommended: False
+sd-1/controlnet/seg:
+   repo_id: lllyasviel/control_v11p_sd15_seg
+   recommended: False
 sd-1/controlnet/scribble:
    repo_id: lllyasviel/control_v11p_sd15_scribble
    recommended: False
