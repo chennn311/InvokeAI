@@ -89,7 +89,7 @@ sd-1/controlnet/openpose:
    recommended: True
 sd-1/controlnet/depth:
    repo_id: lllyasviel/control_v11f1p_sd15_depth
-   recommended: True
+   recommended: False
 sd-1/controlnet/mlsd:
    repo_id: lllyasviel/control_v11p_sd15_mlsd
    recommended: False
